@@ -1,2 +1,1 @@
-This is a second file
-This is the second file that I added to my project
+I'm editing this file from the shorten_titlee branch
