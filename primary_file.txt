@@ -1,2 +1,1 @@
-This is my first git project
-It comes before all other files.
+Affordable outdoor tours
